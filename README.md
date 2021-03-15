@@ -10,10 +10,14 @@
 <p></p>
 </h2>
 
+[logo]: src/youtube_logo.png
+
 ## ℹ️ Descripción
 En este repositorio encontrarás tutoriales y proyectos relacionados con Machiche Learning y Deep Learning. El objetivo es que se utilice como un recurso de aprendizaje y una forma de resolver problemas específicos. Me he basado en diversas fuentes de YouTube, cuyos canales citaré a continuación:
 
 - [aladdinpersson](https://www.youtube.com/c/AladdinPersson)
+- [Valerio Velardo - The Sound of AI](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ)
+- 
 
 ## 📝 Tabla de Contenido
 - [Machine Learning](#machine-learning)
@@ -40,6 +44,7 @@ En este repositorio encontrarás tutoriales y proyectos relacionados con Machich
 ### Pytorch Avanzado
 ### Detección de Objetos
 ### Redes Generativas Adversarias
+* [![Youtube Link][logo]](https://youtu.be/OljTVUVzPpM) &nbsp; [Tu primera GAN](DL/Avanzado/Tu-primera-GAN)
 ### Arquitecturas
  
 
