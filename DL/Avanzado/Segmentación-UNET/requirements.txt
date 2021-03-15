@@ -1,0 +1,8 @@
+albumentations
+imageio
+opencv-contrib-python==4.1.2.30
+opencv-python==4.5.1.48
+opencv-python-headless==4.5.1.48
+torch
+torchvision
+tqdm

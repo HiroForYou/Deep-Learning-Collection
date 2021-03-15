@@ -45,8 +45,10 @@ En este repositorio encontrarás tutoriales y proyectos relacionados con Machich
 ### Detección de Objetos
 ### Redes Generativas Adversarias
 * [![Youtube Link][logo]](https://youtu.be/OljTVUVzPpM) &nbsp; [Tu primera GAN](DL/Avanzado/Tu-primera-GAN)
+
+
 ### Arquitecturas
- 
+* [![Youtube Link][logo]](https://youtu.be/IHq1t7NxS8k) &nbsp; [Segmentación de imágenes con UNET](DL/Avanzado/Segmentación-UNET)
 
 ## Tutoriales TensorFlow
 [![tensorflow](https://img.shields.io/badge/TensorFlow-2.4-FF6F00.svg?style=flat&logo=tensorflow)](https://www.tensorflow.org)

@@ -1,0 +1,16 @@
+__pycache__
+checkpoints.pth
+saved_images/original_2.png
+saved_images/original_3.png
+saved_images/original_4.png
+saved_images/original_5.png
+saved_images/original_6.png
+saved_images/pred_2.png
+saved_images/pred_3.png
+saved_images/pred_4.png
+saved_images/pred_5.png
+saved_images/pred_6.png
+data/train_images
+data/train_masks
+data/val_images
+data/val_masks
