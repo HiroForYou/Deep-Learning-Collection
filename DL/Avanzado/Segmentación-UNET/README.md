@@ -5,7 +5,7 @@
 ## ℹ️ Segmentación
 La segmentación de imágenes es un problema muy popular de visión por computadora. Que abarca desde campos de la medicina (localización de la zona afectada), hasta la conducción autónoma. En la siguiente animación se muestra la segmentación *semántica* para diversos objetos (segmentación no binaria).
 <p align="center">
-  <img src="https://miro.medium.com/max/960/1*dJRA7-IjccrkCWw86V-oUg.gif" />
+  <img src="./src/unet.gif" />
 </p>
 
 Para lograrlo se han inventado muchas arquitecturas, entre las que destacan Mask-RCNN o UNET. Trataremos más a fondo la última, que fue presentada en [este paper](https://arxiv.org/abs/1505.04597) con propósitos inicialmente médicos, pero también ha demostrado buen desempeño en una diversidad de otras tareas.
