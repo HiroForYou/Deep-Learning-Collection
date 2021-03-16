@@ -17,7 +17,7 @@ En este repositorio encontrarás tutoriales y proyectos relacionados con Machich
 
 - [aladdinpersson](https://www.youtube.com/c/AladdinPersson)
 - [Valerio Velardo - The Sound of AI](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ)
-- 
+- [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw)
 
 ## 📝 Tabla de Contenido
 - [Machine Learning](#machine-learning)
@@ -31,7 +31,7 @@ En este repositorio encontrarás tutoriales y proyectos relacionados con Machich
 	- [Tutoriales TensorFlow](#tutoriales-tensorflow)
 		- [Tensorflow Básico](#Tensorflow-Básico)
 		- [Tensorflow Avanzado](#Tensorflow-Avanzado)
-			- [Arquitecturas CNN](#Arquitecturas-CNN)
+			- [Arquitecturas](#Arquitecturas-CNN)
 
 ## 🤖 Machine Learning
 
@@ -55,4 +55,5 @@ En este repositorio encontrarás tutoriales y proyectos relacionados con Machich
 
 ### Tensorflow Básico
 ### Tensorflow Avanzado
-### Arquitecturas CNN
+### Arquitecturas
+* [![Youtube Link][logo]](https://youtu.be/i2_zJ0ANrw0) &nbsp; [Vision Transformer](DL/Avanzado/Vision-Transformer)
