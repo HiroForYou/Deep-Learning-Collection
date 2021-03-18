@@ -15,7 +15,7 @@
 ## ℹ️ Descripción
 En este repositorio encontrarás tutoriales y proyectos relacionados con Machiche Learning y Deep Learning. El objetivo es que se utilice como un recurso de aprendizaje y una forma de resolver problemas específicos. Me he basado en diversas fuentes de YouTube, cuyos canales citaré a continuación:
 
-- [aladdinpersson](https://www.youtube.com/c/AladdinPersson)
+- [Aladdin Persson](https://www.youtube.com/c/AladdinPersson)
 - [Valerio Velardo - The Sound of AI](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ)
 - [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw)
 
@@ -31,7 +31,7 @@ En este repositorio encontrarás tutoriales y proyectos relacionados con Machich
 	- [Tutoriales TensorFlow](#tutoriales-tensorflow)
 		- [Tensorflow Básico](#Tensorflow-Básico)
 		- [Tensorflow Avanzado](#Tensorflow-Avanzado)
-			- [Arquitecturas](#Arquitecturas-CNN)
+			- [Arquitecturas](#Arquitecturas)
 
 ## 🤖 Machine Learning
 
@@ -49,6 +49,8 @@ En este repositorio encontrarás tutoriales y proyectos relacionados con Machich
 
 ### Arquitecturas
 * [![Youtube Link][logo]](https://youtu.be/IHq1t7NxS8k) &nbsp; [Segmentación de imágenes con UNET](DL/Avanzado/Segmentación-UNET)
+* [![Youtube Link][logo]](https://youtu.be/y2BaTt1fxJU) &nbsp; [Generación de subtítulos en imágenes](DL/Avanzado/Image-Captioning)
+
 
 ## Tutoriales TensorFlow
 [![tensorflow](https://img.shields.io/badge/TensorFlow-2.4-FF6F00.svg?style=flat&logo=tensorflow)](https://www.tensorflow.org)

@@ -3,7 +3,7 @@
 </h2>
 
 ## ℹ️ Segmentación
-La segmentación de imágenes es un problema muy popular de visión por computadora. Que abarca desde campos de la medicina (localización de la zona afectada), hasta la conducción autónoma. En la siguiente animación se muestra la segmentación *semántica* para diversos objetos (segmentación no binaria).
+La segmentación de imágenes es un problema muy popular de visión por computadora que abarca desde campos de la medicina (localización de la zona afectada), hasta la conducción autónoma. En la siguiente animación se muestra la segmentación *semántica* para diversos objetos (segmentación no binaria).
 <p align="center">
   <img src="./src/unet.gif" />
 </p>

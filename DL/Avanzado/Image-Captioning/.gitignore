@@ -1,0 +1,5 @@
+checkpoints/
+__pycache__
+data/flickr8k/images
+data/flickr8k/captions.txt
+runs
