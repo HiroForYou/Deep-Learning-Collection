@@ -1,0 +1,6 @@
+!checkpoints/*.py
+__pycache__
+runs
+lightning_logs
+dataset/test/
+dataset/train/
