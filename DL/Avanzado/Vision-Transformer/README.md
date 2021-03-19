@@ -37,7 +37,7 @@ Si desea analizar la arquitectura más a fondo, siéntase libre de editar el [mo
 
 ## 📁 Dataset
 
-El dataset usado fue CIFAR10, consta de 60000 imágenes en color, resolución 32x32 y agrupada en 10 clases, con 6000 imágenes por clase. Hay 50000 imágenes de entrenamiento y 10000 imágenes de prueba. 
+El dataset usado fue CIFAR10, consta de 60000 imágenes en color, resolución 32x32 y agrupada en 10 clases, con 6000 imágenes por clase.
 
 A continuación se muestran las categorías disponibles:
 
